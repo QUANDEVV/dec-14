@@ -81,7 +81,7 @@ const MyApp = ({ Component, pageProps }) => {
                   </h2>
                   <p className="text-xs text-gray-600">
                     We are excited to have you here. Feel free to explore and
-                    connect with us...
+                    connect with us.....
                   </p>
                 </div>
               </Modal>
