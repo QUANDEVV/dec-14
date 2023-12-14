@@ -71,12 +71,12 @@ const Nav = ({ pageType }) => {
           </Link>
         </div>
         <div>
-          <Link
+          {/* <Link
             href="/demo"
-            className="border border-shark bg-nero text-black font-bold py-2 px-4 "
+            className="px-4 py-2 font-bold text-black border border-shark bg-nero "
           >
             Take a Test Drive
-          </Link>
+          </Link> */}
         </div>
       </div>
       <div className="flex flex-row mt-10 overflow-x-auto">{links}</div>
